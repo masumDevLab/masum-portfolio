@@ -1,5 +1,7 @@
 # Masum's Portfolio
 
+![Portfolio preview](src/assets/images/portfolio_image.png)
+
 A responsive personal portfolio built with Vue 3 and Vite. It presents Masum's background, skills, projects, education, experience, certificates, and contact information.
 
 ## Features
